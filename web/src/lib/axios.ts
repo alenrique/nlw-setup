@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-    baseURL: 'https://api-nlw-setup.onrender.com'
+    baseURL: 'https://nlw-setup-nlh2-bc5vu2hkv-alenrique.vercel.app/'
 })
